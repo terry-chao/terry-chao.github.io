@@ -104,4 +104,4 @@ theme: landscape
 deploy:
   type: git
   repo: git@github.com:uuterry/uuterry.github.io.git
-  branch: main
+  branch: hexo-deploy
