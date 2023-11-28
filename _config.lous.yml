@@ -27,5 +27,5 @@ utterances:
   theme: github-light
 
 analytics:
-  enable: false
+  enable: true
   gtag: G-77E699FP7J
