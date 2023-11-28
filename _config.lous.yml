@@ -22,7 +22,7 @@ katex:
 
 utterances:
   enable: true
-  repo: owner/repo
+  repo: uuterry/uuterry.github.io
   issueTerm: pathname
   theme: github-light
 
