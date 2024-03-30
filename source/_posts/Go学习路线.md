@@ -14,5 +14,18 @@ func main() {
 }
 ```
 
-Go语言官网()
+[Go语言官网](https://go.dev)
 
+推荐书籍：
+1. [Go编程语言](https://www.gopl.io/) 
+[中文版](https://golang-china.github.io/gopl-zh/) 
+
+网上资源：
+1. [Go By Example](https://gobyexample-cn.github.io/)
+
+2. [极客兔兔](https://geektutu.com/)
+
+发展方向：
+1. 后台开发
+
+2. 运维开发
