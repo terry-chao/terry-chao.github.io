@@ -113,7 +113,7 @@ catalog:
 
 # 文章末尾的上一页与下一页
 prevnext:
-  enable: true
+  enable: false
 
 # 友链详细信息：支持多个友链
 friends:
@@ -141,7 +141,7 @@ footer:
       path: https://github.com/terry-chao
     -
       name: email
-      icon: gmail
+      icon: email
       path: terrychao.me@gmail.com
     # -
     #   name: facebook
@@ -180,7 +180,7 @@ footer:
   # 浏览量统计
   # http://busuanzi.ibruce.info/
   views:
-    enable: false
+    enable: true
     provider: '//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js'
     item:
       -
@@ -200,9 +200,6 @@ footer:
         unit: 人
 
 # 文章搜索
-# search:
-#   enable: true
-#   placeholder: 
 search:
   enable: true
   placeholder: 搜索...
