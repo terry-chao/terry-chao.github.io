@@ -43,17 +43,20 @@ render_drafts: false
 post_asset_folder: false
 relative_link: false
 future: true
+syntax_highlighter: highlight.js
 highlight:
-  enable: true
-  line_number: false
   auto_detect: false
+  line_number: true
+  line_threshold: 0
   tab_replace: ''
-  wrap: false
-  hljs: true
+  exclude_languages:
+    - example
+  wrap: true
+  hljs: false
 prismjs:
-  enable: false
   preprocess: true
   line_number: true
+  line_threshold: 0
   tab_replace: ''
 
 # Home page setting
@@ -110,3 +113,4 @@ search:
   path: search.xml
   field: post
   content: true
+
