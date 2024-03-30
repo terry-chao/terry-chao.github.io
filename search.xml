@@ -15,19 +15,6 @@
     </entry>
     
     
-    
-    <entry>
-      <title>c++学习路线</title>
-      <link href="/2023/11/26/c++%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/"/>
-      <url>/2023/11/26/c++%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/</url>
-      
-        <content type="html"><![CDATA[<pre><code class="hljs c++"><span class="hljs-meta">#<span class="hljs-keyword">include</span> <span class="hljs-string">&lt;iostream&gt;</span></span><span class="hljs-function"><span class="hljs-type">int</span> <span class="hljs-title">main</span> <span class="hljs-params">()</span> </span>&#123;    std::cout &lt;&lt; <span class="hljs-string">&quot;hello world&quot;</span> &lt;&lt; std::endl;&#125;</code></pre><h1 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h1><h2 id="标准委员会"><a href="#标准委员会" class="headerlink" title="标准委员会"></a>标准委员会</h2><p>c++有两部分组成，语言和标准库<br>c++和部分语言不同的是，大多数使用的不是官方（标准委员会）实现。<br>虽然目前委员会主席为微软背景。<br>c++有三大编译器，也就是三大实现。</p><ul><li><p>微软主导的MSVC<br>  由于MSVC集成在Visual Studio所以<br>  一般使用Visual Studio进行开发。</p></li><li><p>开源软件主导的GCC<br>  在Linux平台上，一般自带gcc，由于linux和gcc都属于GUN下，所以大部分的gcc都在linux下开发。也有开发者将gcc移植到windows上，参考MinGW，推荐msys2配置。</p></li><li><p>苹果主导的Clang<br>  和gcc属于GUN相似但是不同的是，Clang项目属于LLVM。作者是大名鼎鼎的Latner。clang在windows和unix-like系统都可以开发。Clang项目完全兼容gcc而且提供了更宽松的lisense和更友好的提示。由于该特性，在Mac上，<code>gcc</code>命令甚至只是clang的别名。</p></li></ul><p>领域：<br>由于c++语言的时代背景和高性能的特性，决定了其复杂的领域。大致覆盖到了军工，航天，银行，游戏引擎，图形，AI等等。大部分依赖c++的公司为需要较高实时性和高性能，如果大部分的比较底层。比如彭博社（财经类），微软（系统内核），UE（游戏引擎），OpenCascade（几何引擎）。</p><p>国内现状：</p><ol><li>Qt</li><li>音视频</li><li>游戏引擎</li><li>图形开发</li><li>机器人</li></ol><h2 id="资料"><a href="#资料" class="headerlink" title="资料"></a>资料</h2><ul><li>书籍：<br>《C++ Primer》 第五版<br>《Effctive C++》</li><li>视频：<br>Cherno系列视频</li><li>网站<br><a href="https://csguide.cn/cpp/">编程指北</a><br><a href="https://www.stibel.icu/">c++全栈</a></li></ul>]]></content>
-      
-      
-      
-    </entry>
-    
-    
   
   
 </search>
