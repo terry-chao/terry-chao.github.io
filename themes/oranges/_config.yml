@@ -93,12 +93,12 @@ navbar:
     key: categories
   -
     name: Tags
-    enable: true
+    enable: false
     path: /tags/
     key: tags
   -
     name: Friends
-    enable: true
+    enable: false
     path: /friends/
     key: friends
   -
@@ -139,18 +139,18 @@ footer:
       name: github
       icon: github
       path: https://github.com/terry-chao
-    # -
-    #   name: email
-    #   icon: envelope
-    #   path: 
+    -
+      name: email
+      icon: gmail
+      path: terrychao.me@gmail.com
     # -
     #   name: facebook
     #   icon: facebooksquare
     #   path:
-    # -
-    #   name: twitter
-    #   icon: twitter
-    #   path:
+    -
+      name: twitter
+      icon: twitter
+      path: https://twitter.com/terrych_ao
     # -
     #   name: wechat
     #   icon: wechat
@@ -200,13 +200,16 @@ footer:
         unit: 人
 
 # 文章搜索
+# search:
+#   enable: true
+#   placeholder: 
 search:
   enable: true
-  placeholder: 
+  placeholder: 搜索...
 
 # 深/浅配色切换
 colorSwitch:
-  enable: true
+  enable: true  
 
 # 文章分享
 postShare:
