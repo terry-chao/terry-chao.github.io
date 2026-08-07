@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Go学习路线</title>
+      <link href="/2024/03/30/Go%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/"/>
+      <url>/2024/03/30/Go%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/</url>
+      
+        <content type="html"><![CDATA[<figure class="highlight go"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">package</span> main</span><br><span class="line"></span><br><span class="line"><span class="keyword">import</span> <span class="string">&quot;fmt&quot;</span></span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">func</span> <span class="title">main</span><span class="params">()</span></span> &#123;</span><br><span class="line">    fmt.Println(<span class="string">&quot;hello Go&quot;</span>)</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p><a href="https://go.dev/">Go语言官网</a></p><p>推荐书籍：</p><ol><li><a href="https://www.gopl.io/">Go编程语言</a><br><a href="https://golang-china.github.io/gopl-zh/">中文版</a></li></ol><p>网上资源：</p><ol><li><p><a href="https://gobyexample-cn.github.io/">Go By Example</a></p></li><li><p><a href="https://geektutu.com/">极客兔兔</a></p></li></ol><p>发展方向：</p><ol><li><p>后台开发</p></li><li><p>运维开发</p></li></ol>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
